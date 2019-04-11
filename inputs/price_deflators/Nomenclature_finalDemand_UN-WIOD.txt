@@ -1,0 +1,1 @@
+WIOD	UN	Final consumption expenditureCONS_h	Household consumption expenditureCONS_np	General government final consumption expenditureCONS_g	General government final consumption expenditure	Gross capital formationGFC	Gross fixed capital formationINVEN	Changes in inventoriesEXP	Exports of goods and services	Imports of goods and servicesGDP	GDP

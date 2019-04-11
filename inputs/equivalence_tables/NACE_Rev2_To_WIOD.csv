@@ -1,0 +1,66 @@
+Code.NACE;Label.NACE;WIOD
+A01;Crop and animal production, hunting and related service activities;A01
+A02;Forestry and logging;A02
+A03;Fishing and aquaculture;A03
+B;Mining and quarrying;B
+C10-C12;"Manufacture of food products; beverages and tobacco products";C10-C12
+C13-C15;Manufacture of textiles, wearing apparel, leather and related products;C13-C15
+C16;"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials";C16
+C17;Manufacture of paper and paper products;C17
+C18;Printing and reproduction of recorded media;C18
+C19;Manufacture of coke and refined petroleum products;C19
+C20;Manufacture of chemicals and chemical products;C20
+C21;Manufacture of basic pharmaceutical products and pharmaceutical preparations;C21
+C22;Manufacture of rubber and plastic products;C22
+C23;Manufacture of other non-metallic mineral products;C23
+C24;Manufacture of basic metals;C24
+C25;Manufacture of fabricated metal products, except machinery and equipment;C25
+C26;Manufacture of computer, electronic and optical products;C26
+C27;Manufacture of electrical equipment;C27
+C28;Manufacture of machinery and equipment n.e.c.;C28
+C29;Manufacture of motor vehicles, trailers and semi-trailers;C29
+C30;Manufacture of other transport equipment;C30
+C31_C32;"Manufacture of furniture; other manufacturing";C31_C32
+C33;Repair and installation of machinery and equipment;C33
+D35;Electricity, gas, steam and air conditioning supply;D35
+E36;Water collection, treatment and supply;E36
+E37-E39;Sewerage, waste management, remediation activities;E37-E39
+F;Construction;F
+G45;Wholesale and retail trade and repair of motor vehicles and motorcycles;G45
+G46;Wholesale trade, except of motor vehicles and motorcycles;G46
+G47;Retail trade, except of motor vehicles and motorcycles;G47
+H49;Land transport and transport via pipelines;H49
+H50;Water transport;H50
+H51;Air transport;H51
+H52;Warehousing and support activities for transportation;H52
+H53;Postal and courier activities;H53
+I;Accommodation and food service activities;I
+J58;Publishing activities;J58
+J59_J60;"Motion picture, video, television programme production; programming and broadcasting activities";J59_J60
+J61;Telecommunications;J61
+J62_J63;Computer programming, consultancy, and information service activities;J62_J63
+K64;Financial service activities, except insurance and pension funding;K64
+K65;Insurance, reinsurance and pension funding, except compulsory social security;K65
+K66;Activities auxiliary to financial services and insurance activities;K66
+L68B;Real estate activities;L68
+L68A;Imputed rents of owner-occupied dwellings;L68
+M69_M70;"Legal and accounting activities; activities of head offices; management consultancy activities";M69_M70
+M71;"Architectural and engineering activities; technical testing and analysis";M71
+M72;Scientific research and development;M72
+M73;Advertising and market research;M73
+M74_M75;"Other professional, scientific and technical activities; veterinary activities";M74_M75
+N77;Rental and leasing activities;N
+N78;Employment activities;N
+N79;Travel agency, tour operator reservation service and related activities;N
+N80-N82;Security and investigation, service and landscape, office administrative and support activities;N
+O84;"Public administration and defence; compulsory social security";O84
+P85;Education;P85
+Q86;Human health activities;Q
+Q87_Q88;Residential care activities and social work activities without accommodation;Q
+R90-R92;"Creative, arts and entertainment activities; libraries, archives, museums and other cultural activities; gambling and betting activities";R_S
+R93;Sports activities and amusement and recreation activities;R_S
+S94;Activities of membership organisations;R_S
+S95;Repair of computers and personal and household goods;R_S
+S96;Other personal service activities;R_S
+T;"Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use";T
+U;Activities of extraterritorial organisations and bodies;U
